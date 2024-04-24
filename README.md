@@ -1,10 +1,9 @@
-# PHP-Roast-Me 
 
-Welcome to PHP-Roast-Me, the project where PHP enthusiasts get a spicy roast, and PHP skeptics get a virtual shoulder to cry on! 😄
 
-## What is PHP-Roast-Me?
+ This project where PHP enthusiasts get a spicy roast, and PHP skeptics get a virtual shoulder to cry on! 😄
 
-PHP-Roast-Me is a fun little project where we explore the love-hate relationship with PHP. Ever been roasted for loving PHP too much? Or maybe you've faced skepticism for not being a PHP fan? Fear not, this project is here to give you a chuckle either way!
+
+A fun little project where we explore the love-hate relationship with PHP. Ever been roasted for loving PHP too much? Or maybe you've faced skepticism for not being a PHP fan? Fear not, this project is here to give you a chuckle either way!
 
 ## How to Use
 
